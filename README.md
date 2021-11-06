@@ -1,5 +1,5 @@
 # Parallel-Needleman-Wunsch-Algorithm-for-Grid
-This paper describes parallel implementation of [Needleman-Wunsch Algorithm](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm). This was programmed in C# and paper was published in 2005 by Tahir Naveed, Imtiaz Saeed Siddiqui, Shaftab Ahmed.
+This paper describes parallel implementation of [Needleman-Wunsch Algorithm](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm). This was programmed in C# and paper was published in 2005.
 
 ## Researchers refering this paper
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.1213&rep=rep1&type=pdf
